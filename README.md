@@ -1,7 +1,7 @@
 #Hyperblog 💙
 Un blog increible para el [ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > Con el curso de Git y Github estoy aprendiendo a usar la plataforma aveces me enrredo pero despues de entenderlo se vuelve todo mucho mas facil pero al entender una cosa te vienen otro monton de dudas y preguntas pero vamos poco a poco
-> - Sisa mano
+> - Josue Gullo
 
 ##En este curso vemos de todo:
 * Todos los comandos de git
